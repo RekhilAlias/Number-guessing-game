@@ -1,0 +1,32 @@
+#number-guess, #result, #history {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#history {
+  margin-top: 16px;
+}
+
+.banner {
+  color: #000000;
+  font-size: 90px;
+  font-family: sans-serif;
+}
+
+.navbar {
+
+  background-color: dodgerblue !important;
+}
+
+button{
+
+  background-color: cornflowerblue !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 10px !important;
+}
+
+button:hover{
+
+  background-color: black !important;
+}
